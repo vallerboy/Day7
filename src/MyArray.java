@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class MyArray<T> {
+public class MyArray<T > {
     private T[] array;
     private final static int lengthMultiply = 15;
     private int activeElements = 0;
